@@ -2,12 +2,14 @@
 
 <div class="row">
   <div class="center jumbotron">
-    <%= form_for(:country, url: root_path) do |f| %>
+    <%= form_for(:country) do |f| %>
 
-        <%= f.label "How do" %>
-        <%= f.select :country, ['Please select country 1', 'The United States of America', 'Iraq', 'Germany']  %>
+        <%= f.label "How does" %>
+        <% options = options_from_collection_for_select(@countries, 'id', 'name') %>
+        <%= f.select :all_val,  options %>
         <%= f.label "and" %>
-        <%= f.select :country, ['Please select country 2', 'Iraq', 'Germany', 'The United States of America']  %>
+        <% options = options_from_collection_for_select(@countries, 'id', 'name') %>
+        <%= f.select :all_val,  options %>
         <%= f.label "feel about one another?" %>
         <br>
         <%= f.submit "Submit", class: "btn btn-primary" %>
@@ -16,23 +18,3 @@
 
   </div>
 </div>
-
-<!---->
-<!--<h1>Friend or Foe</h1>-->
-  <!--<H4>How do:</H4>-->
-  <!--<select name="post[author_id]" class="dropdown1">-->
-    <!--<option value="">Please select</option>-->
-    <!--<option value="1" selected="selected">The United States of America</option>-->
-    <!--<option value="2">Iraq</option>-->
-    <!--<option value="3">Japan</option>-->
-  <!--</select>-->
-  <!--<h4>and</h4>-->
-  <!--<select name="post[author_id]" class="dropdown2">-->
-    <!--<option value="">Please select</option>-->
-    <!--<option value="1" selected="selected">Iraq</option>-->
-    <!--<option value="2">United States of America</option>-->
-    <!--<option value="3">Japan</option>-->
-  <!--</select>-->
-  <!--<h4>feel about one another?</h4>-->
-  <!-- -->
-<!--</div>-->

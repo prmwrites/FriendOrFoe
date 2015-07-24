@@ -7,3 +7,4 @@ class CreateCountries < ActiveRecord::Migration
     end
   end
 end
+

@@ -1,3 +1,14 @@
 <% provide(:title, "Countries") %>
+<div>
 <h1>List of Countries</h1>
-<p>This will be a list of countries in a sortable database.</p>
+
+  <% @countries.each do |country| %>
+      <tr>
+        <td>
+          <%= link_to country.name, country_path(country) %>
+          <br>
+          <br>
+        </td>
+      </tr>
+  <% end %>
+</div>

@@ -9,3 +9,5 @@
     Mexico = Country.create([{ name: 'Mexico' }])
 
     Canada = Country.create([{ name: 'Canada' }])
+
+    Iraq = Country.create([{ name: 'Iraq' }])

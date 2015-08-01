@@ -6,12 +6,11 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-    Mexico = Country.create([{ name: 'Mexico' }])
 
-    Canada = Country.create([{ name: 'Canada' }])
+    Canada = Country.create([{ name: 'Canada', opinion_of_usa: 'very friendly' }])
 
-    Iraq = Country.create([{ name: 'Iraq' }])
+    Mexico = Country.create([{ name: 'Mexico', opinion_of_usa: 'friendly' }])
 
-    Country.create([{ name: 'Iraq' }])
+    Iran = Country.create([{ name: 'Iran', opinion_of_usa: 'very unfriendly' }])
 
-    Country.create([{ name: 'Iran' }])
+    Iraq = Country.create([{ name: 'Iraq', opinion_of_usa: 'unfriendly' }])

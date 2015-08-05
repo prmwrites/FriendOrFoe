@@ -14,6 +14,7 @@
      # fields[0] = Country.create([{ name: fields[1], opinion_of_usa: 'N\/A' }])
      # }
 
+blank = Country.create([{ name: "-select a country-", opinion_of_usa: 'N/A' }])
 AD = Country.create([{ name: "Andorra", opinion_of_usa: 'N/A' }])
 AF = Country.create([{ name: "Afghanistan", opinion_of_usa: 'N/A' }])
 AX = Country.create([{ name: "Aland Islands", opinion_of_usa: 'N/A' }])

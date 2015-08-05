@@ -1,3 +1,12 @@
+
+
+
+<script>
+$('select').on('change', function(ev) {
+    $(this).attr('class', '').addClass($(this).children(':selected').val());
+});
+</script>
+
 <% provide(:title, "Home") %>
 
 <div class="row">
@@ -5,10 +14,10 @@
     <%= form_for(:country) do |f| %>
 
         <%= f.label "How does" %>
-        <% options = options_from_collection_for_select(@countries, 'id', 'name') %>
+        <% options = options_from_collection_for_select(@countries, 'name', 'name') %>
         <%= f.select :all_val,  options %>
         <%= f.label "and" %>
-        <% options = options_from_collection_for_select(@countries, 'id', 'name') %>
+        <% options = options_from_collection_for_select(@countries, 'name', 'name') %>
         <%= f.select :all_val,  options %>
         <%= f.label "feel about one another?" %>
         <br>

@@ -155,3 +155,10 @@ footer {
     }
   }
 }
+
+
+/* main page*/
+
+select, option { background: #fff; }
+select.country_all_val, option[value="Andorra"] { background: red; }
+select.bar, option[value="Afghanistan"] { background: green; }

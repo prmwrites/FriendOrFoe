@@ -5,3 +5,7 @@
 <br>
 <label>Opinion of the USA: </label>
 <%= @country.opinion_of_usa %>
+<br>
+<% if @country.nato_member == 1 %>
+    Nato Member
+<% end %>

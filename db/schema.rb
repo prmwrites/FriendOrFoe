@@ -18,7 +18,7 @@ ActiveRecord::Schema.define(version: 20150801224349) do
     t.datetime "created_at",        null: false
     t.datetime "updated_at",        null: false
     t.text     "opinion_of_usa"
-    t.text     "opinion_of_canada"
+    t.integer  "nato_member"
   end
 
   create_table "relations", force: :cascade do |t|

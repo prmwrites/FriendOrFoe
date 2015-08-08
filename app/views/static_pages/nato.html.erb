@@ -1,0 +1,13 @@
+<% provide(:title, "Nato Member") %>
+<div>
+  <h1>List of Nato Members</h1>
+  <% @countries.each do |country| %>
+      <tr>
+        <td>
+              <%= link_to country.name, country_path(country) %>
+          <br>
+          <br>
+        </td>
+      </tr>
+  <% end %>
+</div>

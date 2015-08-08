@@ -1,9 +1,8 @@
-
-
 <script>
 $('select').on('change', function(ev) {
     $(this).attr('class', '').addClass($(this).children(':selected').val());
 });
+
 </script>
 
 <% provide(:title, "Home") %>
@@ -14,7 +13,8 @@ $('select').on('change', function(ev) {
 
         <%= f.label "How does" %>
         <% options = options_from_collection_for_select(@countries, 'name', 'name') %>
-        <%= f.select :all_val,  options %>
+        <div id="bluepill">
+		</div>
         <%= f.label "and" %>
         <% options = options_from_collection_for_select(@countries, 'name', 'name') %>
         <%= f.select :all_val,  options %>
@@ -26,3 +26,27 @@ $('select').on('change', function(ev) {
 
   </div>
 </div>
+<script>
+
+var ddData = (function() {
+		var ddData = null;
+		$.ajax({
+			'async': false,
+			'global': false,
+			'url': "/assets/flags/filePaths.json",
+			'dataType': "json", 
+			'success': function (data) {
+				ddData = data;
+		}
+	});
+	return ddData;
+})();	
+
+$('#bluepill').ddslick({
+	data: ddData,
+	defaultSelectedIndex: 2,	
+	width: 300, 
+	imagePosition: "left"
+	//selectText: "Select a Country", 
+});
+</script>	

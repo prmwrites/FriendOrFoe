@@ -1,0 +1,250 @@
+Code,Value,Selected,Description,English Name,imageSrc
+AD,1,FALSE,Andorra,Andorra,AD.png
+AE,2,FALSE,United Arab Emirates,United Arab Emirates,AE.png
+AF,3,FALSE,Afghanistan,Afghanistan,AF.png
+AG,4,FALSE,Antigua and Barbuda,Antigua and Barbuda,AG.png
+AI,5,FALSE,Anguilla,Anguilla,AI.png
+AL,6,FALSE,Albania,Albania,AL.png
+AM,7,FALSE,Armenia,Armenia,AM.png
+AO,8,FALSE,Angola,Angola,AO.png
+AQ,9,FALSE,Antarctica,Antarctica,AQ.png
+AR,10,FALSE,Argentina,Argentina,AR.png
+AS,11,FALSE,American Samoa,American Samoa,AS.png
+AT,12,FALSE,Austria,Austria,AT.png
+AU,13,FALSE,Australia,Australia,AU.png
+AW,14,FALSE,Aruba,Aruba,AW.png
+AX,15,FALSE,Aland Islands,Aland Islands,AX.png
+AZ,16,FALSE,Azerbaijan,Azerbaijan,AZ.png
+BA,17,FALSE,Bosnia and Herzegovina,Bosnia and Herzegovina,BA.png
+BB,18,FALSE,Barbados,Barbados,BB.png
+BD,19,FALSE,Bangladesh,Bangladesh,BD.png
+BE,20,FALSE,Belgium,Belgium,BE.png
+BF,21,FALSE,Burkina Faso,Burkina Faso,BF.png
+BG,22,FALSE,Bulgaria,Bulgaria,BG.png
+BH,23,FALSE,Bahrain,Bahrain,BH.png
+BI,24,FALSE,Burundi,Burundi,BI.png
+BJ,25,FALSE,Benin,Benin,BJ.png
+BL,26,FALSE,Saint Barthelemy,Saint Barthelemy,BL.png
+BM,27,FALSE,Bermuda,Bermuda,BM.png
+BN,28,FALSE,Brunei Darussalam,Brunei Darussalam,BN.png
+BO,29,FALSE,Bolivia,Bolivia,BO.png
+BQ,30,FALSE,Caribbean Netherlands ,Caribbean Netherlands ,BQ.png
+BR,31,FALSE,Brazil,Brazil,BR.png
+BS,32,FALSE,Bahamas,Bahamas,BS.png
+BT,33,FALSE,Bhutan,Bhutan,BT.png
+BV,34,FALSE,Bouvet Island,Bouvet Island,BV.png
+BW,35,FALSE,Botswana,Botswana,BW.png
+BY,36,FALSE,Belarus,Belarus,BY.png
+BZ,37,FALSE,Belize,Belize,BZ.png
+CA,38,FALSE,Canada,Canada,CA.png
+CC,39,FALSE,Cocos (Keeling) Islands,Cocos (Keeling) Islands,CC.png
+CD,40,FALSE,"Congo, Democratic Republic of","Congo, Democratic Republic of",CD.png
+CF,41,FALSE,Central African Republic,Central African Republic,CF.png
+CG,42,FALSE,Congo,Congo,CG.png
+CH,43,FALSE,Switzerland,Switzerland,CH.png
+CI,44,FALSE,Cote d'Ivoire,Cote d'Ivoire,CI.png
+CK,45,FALSE,Cook Islands,Cook Islands,CK.png
+CL,46,FALSE,Chile,Chile,CL.png
+CM,47,FALSE,Cameroon,Cameroon,CM.png
+CN,48,FALSE,China,China,CN.png
+CO,49,FALSE,Colombia,Colombia,CO.png
+CR,50,FALSE,Costa Rica,Costa Rica,CR.png
+CU,51,FALSE,Cuba,Cuba,CU.png
+CV,52,FALSE,Cape Verde,Cape Verde,CV.png
+CW,53,FALSE,Curacao,Curacao,CW.png
+CX,54,FALSE,Christmas Island,Christmas Island,CX.png
+CY,55,FALSE,Cyprus,Cyprus,CY.png
+CZ,56,FALSE,Czech Republic,Czech Republic,CZ.png
+DE,57,FALSE,Germany,Germany,DE.png
+DJ,58,FALSE,Djibouti,Djibouti,DJ.png
+DK,59,FALSE,Denmark,Denmark,DK.png
+DM,60,FALSE,Dominica,Dominica,DM.png
+DO,61,FALSE,Dominican Republic,Dominican Republic,DO.png
+DZ,62,FALSE,Algeria,Algeria,DZ.png
+EC,63,FALSE,Ecuador,Ecuador,EC.png
+EE,64,FALSE,Estonia,Estonia,EE.png
+EG,65,FALSE,Egypt,Egypt,EG.png
+EH,66,FALSE,Western Sahara,Western Sahara,EH.png
+ER,67,FALSE,Eritrea,Eritrea,ER.png
+ES,68,FALSE,Spain,Spain,ES.png
+ET,69,FALSE,Ethiopia,Ethiopia,ET.png
+FI,70,FALSE,Finland,Finland,FI.png
+FJ,71,FALSE,Fiji,Fiji,FJ.png
+FK,72,FALSE,Falkland Islands,Falkland Islands,FK.png
+FM,73,FALSE,"Micronesia, Federated States of","Micronesia, Federated States of",FM.png
+FO,74,FALSE,Faroe Islands,Faroe Islands,FO.png
+FR,75,FALSE,France,France,FR.png
+GA,76,FALSE,Gabon,Gabon,GA.png
+GB,77,FALSE,United Kingdom,United Kingdom,GB.png
+GD,78,FALSE,Grenada,Grenada,GD.png
+GE,79,FALSE,Georgia,Georgia,GE.png
+GF,80,FALSE,French Guiana,French Guiana,GF.png
+GG,81,FALSE,Guernsey,Guernsey,GG.png
+GH,82,FALSE,Ghana,Ghana,GH.png
+GI,83,FALSE,Gibraltar,Gibraltar,GI.png
+GL,84,FALSE,Greenland,Greenland,GL.png
+GM,85,FALSE,Gambia,Gambia,GM.png
+GN,86,FALSE,Guinea,Guinea,GN.png
+GP,87,FALSE,Guadeloupe,Guadeloupe,GP.png
+GQ,88,FALSE,Equatorial Guinea,Equatorial Guinea,GQ.png
+GR,89,FALSE,Greece,Greece,GR.png
+GS,90,FALSE,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,GS.png
+GT,91,FALSE,Guatemala,Guatemala,GT.png
+GU,92,FALSE,Guam,Guam,GU.png
+GW,93,FALSE,Guinea-Bissau,Guinea-Bissau,GW.png
+GY,94,FALSE,Guyana,Guyana,GY.png
+HK,95,FALSE,Hong Kong,Hong Kong,HK.png
+HM,96,FALSE,Heard and McDonald Islands,Heard and McDonald Islands,HM.png
+HN,97,FALSE,Honduras,Honduras,HN.png
+HR,98,FALSE,Croatia,Croatia,HR.png
+HT,99,FALSE,Haiti,Haiti,HT.png
+HU,100,FALSE,Hungary,Hungary,HU.png
+ID,101,FALSE,Indonesia,Indonesia,ID.png
+IE,102,FALSE,Ireland,Ireland,IE.png
+IL,103,FALSE,Israel,Israel,IL.png
+IM,104,FALSE,Isle of Man,Isle of Man,IM.png
+IN,105,FALSE,India,India,IN.png
+IO,106,FALSE,British Indian Ocean Territory,British Indian Ocean Territory,IO.png
+IQ,107,FALSE,Iraq,Iraq,IQ.png
+IR,108,FALSE,Iran,Iran,IR.png
+IS,109,FALSE,Iceland,Iceland,IS.png
+IT,110,FALSE,Italy,Italy,IT.png
+JE,111,FALSE,Jersey,Jersey,JE.png
+JM,112,FALSE,Jamaica,Jamaica,JM.png
+JO,113,FALSE,Jordan,Jordan,JO.png
+JP,114,FALSE,Japan,Japan,JP.png
+KE,115,FALSE,Kenya,Kenya,KE.png
+KG,116,FALSE,Kyrgyzstan,Kyrgyzstan,KG.png
+KH,117,FALSE,Cambodia,Cambodia,KH.png
+KI,118,FALSE,Kiribati,Kiribati,KI.png
+KM,119,FALSE,Comoros,Comoros,KM.png
+KN,120,FALSE,Saint Kitts and Nevis,Saint Kitts and Nevis,KN.png
+KP,121,FALSE,North Korea,North Korea,KP.png
+KR,122,FALSE,South Korea,South Korea,KR.png
+KW,123,FALSE,Kuwait,Kuwait,KW.png
+KY,124,FALSE,Cayman Islands,Cayman Islands,KY.png
+KZ,125,FALSE,Kazakhstan,Kazakhstan,KZ.png
+LA,126,FALSE,Lao People's Democratic Republic,Lao People's Democratic Republic,LA.png
+LB,127,FALSE,Lebanon,Lebanon,LB.png
+LC,128,FALSE,Saint Lucia,Saint Lucia,LC.png
+LI,129,FALSE,Liechtenstein,Liechtenstein,LI.png
+LK,130,FALSE,Sri Lanka,Sri Lanka,LK.png
+LR,131,FALSE,Liberia,Liberia,LR.png
+LS,132,FALSE,Lesotho,Lesotho,LS.png
+LT,133,FALSE,Lithuania,Lithuania,LT.png
+LU,134,FALSE,Luxembourg,Luxembourg,LU.png
+LV,135,FALSE,Latvia,Latvia,LV.png
+LY,136,FALSE,Libya,Libya,LY.png
+MA,137,FALSE,Morocco,Morocco,MA.png
+MC,138,FALSE,Monaco,Monaco,MC.png
+MD,139,FALSE,Moldova,Moldova,MD.png
+ME,140,FALSE,Montenegro,Montenegro,ME.png
+MF,141,FALSE,Saint-Martin (France),Saint-Martin (France),MF.png
+MG,142,FALSE,Madagascar,Madagascar,MG.png
+MH,143,FALSE,Marshall Islands,Marshall Islands,MH.png
+MK,144,FALSE,Macedonia,Macedonia,MK.png
+ML,145,FALSE,Mali,Mali,ML.png
+MM,146,FALSE,Myanmar,Myanmar,MM.png
+MN,147,FALSE,Mongolia,Mongolia,MN.png
+MO,148,FALSE,Macau,Macau,MO.png
+MP,149,FALSE,Northern Mariana Islands,Northern Mariana Islands,MP.png
+MQ,150,FALSE,Martinique,Martinique,MQ.png
+MR,151,FALSE,Mauritania,Mauritania,MR.png
+MS,152,FALSE,Montserrat,Montserrat,MS.png
+MT,153,FALSE,Malta,Malta,MT.png
+MU,154,FALSE,Mauritius,Mauritius,MU.png
+MV,155,FALSE,Maldives,Maldives,MV.png
+MW,156,FALSE,Malawi,Malawi,MW.png
+MX,157,FALSE,Mexico,Mexico,MX.png
+MY,158,FALSE,Malaysia,Malaysia,MY.png
+MZ,159,FALSE,Mozambique,Mozambique,MZ.png
+NA,160,FALSE,Namibia,Namibia,NA.png
+NC,161,FALSE,New Caledonia,New Caledonia,NC.png
+NE,162,FALSE,Niger,Niger,NE.png
+NF,163,FALSE,Norfolk Island,Norfolk Island,NF.png
+NG,164,FALSE,Nigeria,Nigeria,NG.png
+NI,165,FALSE,Nicaragua,Nicaragua,NI.png
+NL,166,FALSE,The Netherlands,The Netherlands,NL.png
+NO,167,FALSE,Norway,Norway,NO.png
+NP,168,FALSE,Nepal,Nepal,NP.png
+NR,169,FALSE,Nauru,Nauru,NR.png
+NU,170,FALSE,Niue,Niue,NU.png
+NZ,171,FALSE,New Zealand,New Zealand,NZ.png
+OM,172,FALSE,Oman,Oman,OM.png
+PA,173,FALSE,Panama,Panama,PA.png
+PE,174,FALSE,Peru,Peru,PE.png
+PF,175,FALSE,French Polynesia,French Polynesia,PF.png
+PG,176,FALSE,Papua New Guinea,Papua New Guinea,PG.png
+PH,177,FALSE,Philippines,Philippines,PH.png
+PK,178,FALSE,Pakistan,Pakistan,PK.png
+PL,179,FALSE,Poland,Poland,PL.png
+PM,180,FALSE,St. Pierre and Miquelon,St. Pierre and Miquelon,PM.png
+PN,181,FALSE,Pitcairn,Pitcairn,PN.png
+PR,182,FALSE,Puerto Rico,Puerto Rico,PR.png
+PS,183,FALSE,"Palestine, State of","Palestine, State of",PS.png
+PT,184,FALSE,Portugal,Portugal,PT.png
+PW,185,FALSE,Palau,Palau,PW.png
+PY,186,FALSE,Paraguay,Paraguay,PY.png
+QA,187,FALSE,Qatar,Qatar,QA.png
+RE,188,FALSE,Réunion,Réunion,RE.png
+RO,189,FALSE,Romania,Romania,RO.png
+RS,190,FALSE,Serbia,Serbia,RS.png
+RU,191,FALSE,Russian Federation,Russian Federation,RU.png
+RW,192,FALSE,Rwanda,Rwanda,RW.png
+SA,193,FALSE,Saudi Arabia,Saudi Arabia,SA.png
+SB,194,FALSE,Solomon Islands,Solomon Islands,SB.png
+SC,195,FALSE,Seychelles,Seychelles,SC.png
+SD,196,FALSE,Sudan,Sudan,SD.png
+SE,197,FALSE,Sweden,Sweden,SE.png
+SG,198,FALSE,Singapore,Singapore,SG.png
+SH,199,FALSE,Saint Helena,Saint Helena,SH.png
+SI,200,FALSE,Slovenia,Slovenia,SI.png
+SJ,201,FALSE,Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,SJ.png
+SK,202,FALSE,Slovakia,Slovakia,SK.png
+SL,203,FALSE,Sierra Leone,Sierra Leone,SL.png
+SM,204,FALSE,San Marino,San Marino,SM.png
+SN,205,FALSE,Senegal,Senegal,SN.png
+SO,206,FALSE,Somalia,Somalia,SO.png
+SR,207,FALSE,Suriname,Suriname,SR.png
+SS,208,FALSE,South Sudan,South Sudan,SS.png
+ST,209,FALSE,Sao Tome and Principe,Sao Tome and Principe,ST.png
+SV,210,FALSE,El Salvador,El Salvador,SV.png
+SX,211,FALSE,Sint Maarten (Dutch part),Sint Maarten (Dutch part),SX.png
+SY,212,FALSE,Syria,Syria,SY.png
+SZ,213,FALSE,Swaziland,Swaziland,SZ.png
+TC,214,FALSE,Turks and Caicos Islands,Turks and Caicos Islands,TC.png
+TD,215,FALSE,Chad,Chad,TD.png
+TF,216,FALSE,French Southern Territories,French Southern Territories,TF.png
+TG,217,FALSE,Togo,Togo,TG.png
+TH,218,FALSE,Thailand,Thailand,TH.png
+TJ,219,FALSE,Tajikistan,Tajikistan,TJ.png
+TK,220,FALSE,Tokelau,Tokelau,TK.png
+TL,221,FALSE,Timor-Leste,Timor-Leste,TL.png
+TM,222,FALSE,Turkmenistan,Turkmenistan,TM.png
+TN,223,FALSE,Tunisia,Tunisia,TN.png
+TO,224,FALSE,Tonga,Tonga,TO.png
+TR,225,FALSE,Turkey,Turkey,TR.png
+TT,226,FALSE,Trinidad and Tobago,Trinidad and Tobago,TT.png
+TV,227,FALSE,Tuvalu,Tuvalu,TV.png
+TW,228,FALSE,Taiwan,Taiwan,TW.png
+TZ,229,FALSE,Tanzania,Tanzania,TZ.png
+UA,230,FALSE,Ukraine,Ukraine,UA.png
+UG,231,FALSE,Uganda,Uganda,UG.png
+UM,232,FALSE,United States Minor Outlying Islands,United States Minor Outlying Islands,UM.png
+US,233,FALSE,United States,United States,US.png
+UY,234,FALSE,Uruguay,Uruguay,UY.png
+UZ,235,FALSE,Uzbekistan,Uzbekistan,UZ.png
+VA,236,FALSE,Vatican,Vatican,VA.png
+VC,237,FALSE,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC.png
+VE,238,FALSE,Venezuela,Venezuela,VE.png
+VG,239,FALSE,Virgin Islands (British),Virgin Islands (British),VG.png
+VI,240,FALSE,Virgin Islands (U.S.),Virgin Islands (U.S.),VI.png
+VN,241,FALSE,Vietnam,Vietnam,VN.png
+VU,242,FALSE,Vanuatu,Vanuatu,VU.png
+WF,243,FALSE,Wallis and Futuna Islands,Wallis and Futuna Islands,WF.png
+WS,244,FALSE,Samoa,Samoa,WS.png
+YE,245,FALSE,Yemen,Yemen,YE.png
+YT,246,FALSE,Mayotte,Mayotte,YT.png
+ZA,247,FALSE,South Africa,South Africa,ZA.png
+ZM,248,FALSE,Zambia,Zambia,ZM.png
+ZW,249,FALSE,Zimbabwe,Zimbabwe,ZW.png

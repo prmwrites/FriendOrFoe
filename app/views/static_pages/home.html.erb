@@ -5,20 +5,23 @@ $('select').on('change', function(ev) {
 
 </script>
 
+
+
 <% provide(:title, "Home") %>
 
 <div class="row">
   <div class="center jumbotron">
     <%= form_for(:country) do |f| %>
 
-        <%= f.label "How does" %>
+        <%= f.label "How do" %>
         <% options = options_from_collection_for_select(@countries, 'name', 'name') %>
         <div id="bluepill">
 		</div>
         <%= f.label "and" %>
         <% options = options_from_collection_for_select(@countries, 'name', 'name') %>
-        <%= f.select :all_val,  options %>
-        <%= f.label "feel about one another?" %>
+		<div id="redpill">
+		</div>
+		 <%= f.label "feel about each other?" %>
         <br>
         <%= f.submit "Submit", class: "btn btn-primary" %>
 
@@ -43,6 +46,14 @@ var ddData = (function() {
 })();	
 
 $('#bluepill').ddslick({
+	data: ddData,
+	defaultSelectedIndex: 2,	
+	width: 300, 
+	imagePosition: "left"
+	//selectText: "Select a Country", 
+});
+
+$('#redpill').ddslick({
 	data: ddData,
 	defaultSelectedIndex: 2,	
 	width: 300, 

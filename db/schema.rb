@@ -15,10 +15,10 @@ ActiveRecord::Schema.define(version: 20150801224349) do
 
   create_table "countries", force: :cascade do |t|
     t.string   "name"
-    t.datetime "created_at",        null: false
-    t.datetime "updated_at",        null: false
-    t.text     "opinion_of_usa"
+    t.string   "opinion_of_usa"
     t.integer  "nato_member"
+    t.datetime "created_at",     null: false
+    t.datetime "updated_at",     null: false
   end
 
   create_table "relations", force: :cascade do |t|

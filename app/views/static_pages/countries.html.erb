@@ -2,13 +2,11 @@
 <div>
 <h1>List of Countries</h1>
 
-  <% @countries.each do |country| %>
-      <tr>
-        <td>
-          <%= link_to country.name, country_path(country) %>
-          <br>
-          <br>
-        </td>
-      </tr>
-  <% end %>
+<div id="countries">
+<% for country in @countries %>
+  <h2>
+    <%= link_to h(country.name), country %>
+    <span class="relations">(<%= pluralize(country.relations.size, 'relation') %>)</span>
+  </h2>
+<% end %>
 </div>

@@ -9,8 +9,15 @@
 <h1 id="memberships">Security Alliances</h1>
 <% if @country.nato_member == 1 %>
 <h2>Nato Member</h2>
-<div class="nato">
-    
+<div class="nato">   
 </div>
 </div>
+
 <% end %>
+
+<p>
+  <%= link_to pluralize(@country.relations.size, 'relations'), country_relations_path(@country) %> |
+  <%= link_to "Back to Countries", countries_path(@country) %>
+</p>
+
+

@@ -1,14 +1,11 @@
-<p id="notice"><%= notice %></p>
+
+<strong>Country:</strong>
+  <%= @country.name %>
+</p>
 
 <p>
-  <strong>Name:</strong>
+  <strong>Relation:</strong>
   <%= @relation.name %>
 </p>
 
-<p>
-  <strong>Parent:</strong>
-  <%= @relation.parent_id %>
-</p>
-
-<%= link_to 'Edit', edit_relation_path(@relation) %> |
-<%= link_to 'Back', relations_path %>
+<%= link_to "Add New Relation", new_country_relation_path(@country) %>

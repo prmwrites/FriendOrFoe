@@ -122,6 +122,9 @@ KE = Country.create([{ name: "Kenya", opinion_of_usa: 'N/A' }])
 KI = Country.create([{ name: "Kiribati", opinion_of_usa: 'N/A' }])
 KW = Country.create([{ name: "Kuwait", opinion_of_usa: 'N/A' }])
 KG = Country.create([{ name: "Kyrgyzstan", opinion_of_usa: 'N/A' }])
+
+
+
 LA = Country.create([{ name: "Lao People's Democratic Republic", opinion_of_usa: 'N/A' }])
 LV = Country.create([{ name: "Latvia", opinion_of_usa: 'N/A', nato_member: 1 }])
 LB = Country.create([{ name: "Lebanon", opinion_of_usa: 'N/A' }])
@@ -241,11 +244,11 @@ ZW = Country.create([{ name: "Zimbabwe", opinion_of_usa: 'N/A' }])
 
     # Relations
 
-    Canada2 = Relation.create([{ name: 'Canada', parent_id: 1 }])
+    Canada2 = Relation.create([{ country_id: '1', name: 'Canada' }])
 
-    Iran2 = Relation.create([{ name: 'Iran', parent_id: 2 }])
+    Iran2 = Relation.create([{ country_id: '2', name: 'Iran' }])
 
-    Iraq2 = Relation.create([{ name: 'Iraq', parent_id: 3 }])
+    Iraq2 = Relation.create([{ country_id: '3', name: 'Iraq' }])
 
-    Mexico2 = Relation.create([{ name: 'Mexico', parent_id: 4 }])
+    Mexico2 = Relation.create([{ country_id: '4', name: 'Mexico'}])
 

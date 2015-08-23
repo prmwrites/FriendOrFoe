@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 20150801224349) do
 
   create_table "relations", force: :cascade do |t|
     t.string   "name"
-    t.integer  "parent_id"
+		t.integer	 "country_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
